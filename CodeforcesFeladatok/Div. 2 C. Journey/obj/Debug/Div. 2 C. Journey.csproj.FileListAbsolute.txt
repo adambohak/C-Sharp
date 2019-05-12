@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2013\Projects\Div. 2 C. Journey\bin\Debug\Div._2_C.Journey.exe.config
+C:\Users\Dell\documents\visual studio 2013\Projects\Div. 2 C. Journey\bin\Debug\Div._2_C.Journey.exe
+C:\Users\Dell\documents\visual studio 2013\Projects\Div. 2 C. Journey\bin\Debug\Div._2_C.Journey.pdb
+C:\Users\Dell\documents\visual studio 2013\Projects\Div. 2 C. Journey\obj\Debug\Div. 2 C. Journey.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2013\Projects\Div. 2 C. Journey\obj\Debug\Div._2_C.Journey.exe
+C:\Users\Dell\documents\visual studio 2013\Projects\Div. 2 C. Journey\obj\Debug\Div._2_C.Journey.pdb

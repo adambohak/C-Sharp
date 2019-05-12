@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2013\Projects\Div. 1 B. Zuma2\bin\Debug\Div._1_B.Zuma2.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\Div. 1 B. Zuma2\bin\Debug\Div._1_B.Zuma2.exe
+c:\users\dell\documents\visual studio 2013\Projects\Div. 1 B. Zuma2\bin\Debug\Div._1_B.Zuma2.pdb
+c:\users\dell\documents\visual studio 2013\Projects\Div. 1 B. Zuma2\obj\Debug\Div._1_B.Zuma2.exe
+c:\users\dell\documents\visual studio 2013\Projects\Div. 1 B. Zuma2\obj\Debug\Div._1_B.Zuma2.pdb
+C:\Users\Dell\documents\visual studio 2013\Projects\Div. 1 B. Zuma2\obj\Debug\Div. 1 B. Zuma2.csprojResolveAssemblyReference.cache

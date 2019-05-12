@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2013\Projects\Div 2. C. Sanatorium\bin\Debug\Div_2.C.Sanatorium.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\Div 2. C. Sanatorium\obj\Debug\Div 2. C. Sanatorium.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\Div 2. C. Sanatorium\bin\Debug\Div_2.C.Sanatorium.exe
+c:\users\dell\documents\visual studio 2013\Projects\Div 2. C. Sanatorium\bin\Debug\Div_2.C.Sanatorium.pdb
+c:\users\dell\documents\visual studio 2013\Projects\Div 2. C. Sanatorium\obj\Debug\Div_2.C.Sanatorium.exe
+c:\users\dell\documents\visual studio 2013\Projects\Div 2. C. Sanatorium\obj\Debug\Div_2.C.Sanatorium.pdb
